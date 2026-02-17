@@ -1,0 +1,58 @@
+*{
+    background-color: dimgray;
+}
+.flex-area {
+  display: flex; 
+  align-items: center; 
+  gap: 20px; 
+}
+h1 {color: white;
+font-size: 50px;
+}
+.video {
+  width: 50%; 
+  height: 300px; 
+  border: none; 
+}
+
+.text {
+  width: 50%;
+}
+h2 {
+    color:white;
+    font-size: 30px;
+}
+h3 {color:white;
+font-size: 20px;
+margin-top: 20px;
+}
+p {
+    color: white;
+    Font-size: 20px;
+    margin-right: 10px;
+}
+#video1{
+    margin: 200px, 200px, 200px, 200px;
+}
+#video2{
+    margin: 200px, 200px, 200px, 200px;
+}
+#video3{
+    margin: 200px, 200px, 200px, 200px;
+}
+#video4{
+    margin: 200px, 200px, 200px, 200px;
+}
+#video5{
+    margin: 200px, 200px, 200px, 200px;
+}
+header{
+    margin: 200px 200px 200px 200px;
+}
+
+.orbitron {
+  font-family: "Orbitron-normal", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400px;
+  font-style: normal;
+}
