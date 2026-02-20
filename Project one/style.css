@@ -1,0 +1,152 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.flex-area {
+  display: flex; 
+  align-items: center; 
+  gap: 20px; 
+}
+h1 {color: rgb(255, 254, 254);
+font-size: 150px;
+}
+#video {
+  width: 50%; 
+  height: 500px; 
+  border: none; 
+  margin: 50px, 50px, 50px, 50px;
+}
+
+.text {
+  width: 75%;
+  color: black;
+  background-color: rgb(36, 36, 36);
+  padding: 50px, 50px, 50px, 50px;
+  margin: 50px, 50px, 50px, 50px;
+}
+h2 {
+    color: white;
+    font-size: 40px;
+    margin: 0px 0px 25px 0px;
+}
+h3 {color: white;
+font-size: 30px;
+margin-top: 20px;
+margin: 25px 0px 25px 0px;
+}
+p {
+    color: white;
+    Font-size: 30px;
+    margin-right: 10px;
+}
+#Video1{
+       background-size: cover;
+    margin: 0;
+   height: 100vh;
+    width: 100%;
+    background-image: url(photos/Beastie-Boys-GettyImages-93714215a.webp);
+}
+#Video2{
+       background-size: cover;
+    margin: 0;
+   height: 100vh;
+    width: 100%;
+    background-image: url(photos/609461.jpg);
+}
+#Video3{
+        background-size: cover;
+    margin: 0;
+   height: 100vh;
+    width: 100%;
+    background-image: url(photos/strokes.jpg);
+}
+#Video4{
+         background-size: cover;
+    margin: 0;
+   height: 100vh;
+    width: 100%;
+    background-image: url(photos/Kool-and-the-Gang-GettyImages-85244505.webp);
+}
+#Video5{
+         background-size: cover;
+    margin: 0;
+   height: 100vh;
+    width: 100%;
+    background-image: url(photos/modjo-lady-hear-me-tonight.jpg);
+}
+header{
+    margin: 200px 200px 200px 200px;
+}
+
+.orbitron {
+  font-family: "Orbitron-normal", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400px;
+  font-style: normal;
+}
+
+#opener {
+    background-size: cover;
+    margin: 0;
+   height: 100vh;
+    width: 100%;
+    background-image: url(photos/musicvideosforgif\ \(1\).gif);
+}
+#start{
+    text-align: center;
+}
+.center{
+    display: flex;
+    Align-items: center;
+    height: 100vh;
+}
+.below-text{
+    margin-top:20px;
+    text-align: center;
+    font-size: 30px;
+    margin: 500px, 500px, 500px, 500px;
+}
+.below-below{
+    margin-top: 20px;
+    text-align: center;
+    font-size: 40px;
+    margin: 200px, 200px, 200px, 200px;
+}
+
+/* fonts*/
+
+
+.orbitron {
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.lobster-regular {
+  font-family: "Lobster", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.walter-turncoat-regular {
+  font-family: "Walter Turncoat", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.dynapuff {
+  font-family: "DynaPuff", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.allerta-stencil-regular {
+  font-family: "Allerta Stencil", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
