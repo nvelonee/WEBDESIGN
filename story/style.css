@@ -1,0 +1,227 @@
+* {
+    margin: 0px;
+}
+.Frog1 {
+    background-image: url(images/hFwNBc9BS6GUhtPRhptlKg.webp);
+    height: 1000px;
+    width:100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+position:flex;
+
+
+
+
+
+
+}
+    .Frog1 img {
+position:absolute;
+margin-left: 200px;
+animation: hop 1s infinite alternate;
+}
+.Frog1 h3{
+    text-align: left;
+    position:absolute;
+    font-size: 75px;
+    justify-content: center;
+    color:white;
+}
+@keyframes hop {
+    100% {rotate: 30deg;
+    margin-left: 100px;
+    animation-direction: alternate;
+    }
+}
+.Scorpion1{
+background-image: url(images/966862_9052a.gif);
+   height: 1000px;
+    width:100%;
+    position:flex;
+
+}
+.Scorpion1 img {
+margin-left: 100px;
+size: 800px;
+}
+.Scorpion1 h3 {
+color: white;
+font-size:50px;
+text-align: right;
+position:absolute;
+justify-content: right;
+}
+.Scorpion1 h2 {
+    color: brown;
+    background-color: white;
+    position: absolute;
+    text-align: right;
+    margin-left:500px;
+    margin-right: 70px;
+    font-size: 50px;
+    float: right;
+}
+.frogandscorp {
+display: grid;
+grid-template-columns: repeat(2, 1fr);
+grid-template-rows: 1fr;
+grid-column-gap: 0px;
+grid-row-gap: 0px;
+background-image: url(images/giphy\ \(6\).gif);
+align-items: center;
+align-content: center;
+place-items: center;
+}
+
+.frogandscorp img {
+    align-items: center;
+    margin-top: 30px;
+}
+
+.frog h3 {
+    color: white;
+    background-color: black;
+    text-align: left;
+    margin-left:30px;
+    margin-right: 70px;
+    font-size: 40px;
+    float: left;
+}
+.frogandscorp h2 {
+        color: brown;
+    background-color: white;
+    text-align: right;
+    margin-left:20px;
+    margin-right: 40px;
+    font-size: 40px;
+    float: right;
+}
+
+
+
+
+.frog2 {
+    background-image: url(images/vector-grunge-stroke-texture-background_1409-2965.avif);
+    height: 1000px;
+    width:100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+position:flex;
+}
+
+.frog2 img {
+    align-items: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.frog2 h3 {
+    color: white;
+    background-color: black;
+    text-align: center;
+    margin-left:350px;
+    margin-right: 350px;
+    font-size: 60px;
+    float: center;
+
+}
+
+.frogandscorp2 {
+background-image: url(images/frog\ gif.gif);
+    height: 1000px;
+    width:100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+position:flex;
+
+}
+
+.frogandscorp2 img {
+      align-items: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.frogandscorp2 h3 {
+        color: white;
+    text-align: center;
+    margin-left:350px;
+    margin-right: 350px;
+    font-size: 60px;
+    float: center;
+    margin-top: 80px;
+}
+
+.strike {
+    background-color: black;
+}
+
+.strike h3 {
+    color: #BB0303;
+       text-align: center;
+    margin-left:350px;
+    margin-right: 350px;
+    font-size: 60px;
+    float: center;
+    margin-top: 80px;
+}
+
+.strike img {
+       align-items: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.frogreact {
+    background-image: url(images/images\ \(44\).jpeg);
+      height: 1000px;
+    width:100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.frogreact img {
+    align-items: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 800px;
+}
+
+.frogreact h3 {
+    color: white;
+    background-color: black;
+     text-align: center;
+    margin-left:350px;
+    margin-right: 350px;
+    font-size: 40px;
+    float: center;
+    margin-top: 50px;
+}
+
+
+.theend {
+    background-image: url(images/293452_legendofslotha_scorpion.jpg);
+        height: 1400px;
+    width:100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+text-align: center;
+position:absolute;
+}
+
+.theend h3 {
+            color: black;
+    text-align: left;
+    margin-left:20px;
+    margin-right: 900px;
+    font-size: 60px;
+    float: center;
+    align-items: center;
+    position: flex;
+    padding-top: 500px;
+
+}
